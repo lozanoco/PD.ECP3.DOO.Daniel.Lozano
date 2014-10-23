@@ -1,5 +1,7 @@
 package controllers.enterprise;
 
-public class GetStatisticsControllerEnterprise {
+import controllers.GetStatisticsController;
+
+public class GetStatisticsControllerEnterprise implements GetStatisticsController{
 
 }
