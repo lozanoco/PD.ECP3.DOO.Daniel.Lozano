@@ -1,5 +1,7 @@
 package controllersProxy.mobile;
 
-public class MoveCardControllerProxy {
+import controllers.MoveCardController;
+
+public class MoveCardControllerProxy implements MoveCardController {
 
 }

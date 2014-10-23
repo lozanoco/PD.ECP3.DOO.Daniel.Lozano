@@ -1,5 +1,7 @@
 package controllersProxy.mobile;
 
-public class DeleteRoundControllerProxy {
+import controllers.DeleteRoundController;
+
+public class DeleteRoundControllerProxy implements DeleteRoundController {
 
 }
